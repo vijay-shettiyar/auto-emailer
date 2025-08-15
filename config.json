@@ -1,0 +1,12 @@
+{
+    "sender_email": "//sender_email//",
+    "sender_password": "//sender_password//",
+    "recipient_email": ["//receiver_email//"],
+    "cc_email": [],
+    "bcc_email": [],
+    "file_location": "//attachment_file_location//",
+    "file_name": ["//file_name + extension//"],
+    "subject": "//Subject Line//",
+    "body": "<html><body style='font-family: Trebuchet MS; font-size: 18px;'>Hi</body></html>",
+    "log": "//file_location + file_name + extension//"
+}
